@@ -21,7 +21,7 @@ TextUtils is a simple and powerful React-based web app that lets you **manipulat
 
 ## 🔥 Demo
 
-👉 [Live Demo](#) —
+👉 [Live Demo](https://text-utils-blue-delta.vercel.app/) —
 
 ---
 
